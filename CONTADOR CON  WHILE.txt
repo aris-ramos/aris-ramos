@@ -1,0 +1,14 @@
+CONTADOR CON WHILE 
+  //contador del 1 al 100//
+
+  main()
+  { 
+     i=1;  //inicializando una variable con un valor//
+     x=1;
+     DO
+     {
+        print (x);
+        x++
+     } While (x<101)// while significa mientras//
+      printf(¨adios¨);
+  }

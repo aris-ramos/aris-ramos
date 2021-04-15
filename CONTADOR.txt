@@ -1,0 +1,15 @@
+CONTADOR 
+
+FOR
+WHILE
+REPEAT
+
+main()
+{
+    i=1;//iniciando una variable con un valor//
+    for(x=i; x<=100; x++)
+    {
+       printf(x);
+    }
+}
+    printf(¨adios¨);
